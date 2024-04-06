@@ -1,0 +1,5 @@
+package Gipk
+
+object Ob {
+  
+}
